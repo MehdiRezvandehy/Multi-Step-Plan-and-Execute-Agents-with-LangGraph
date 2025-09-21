@@ -1,6 +1,7 @@
 # Multi-Step-Plan-and-Execute-Agents-with-LangGraph
 
 This work illustrates a multi-step task execution pipeline built with LangChain and LangGraph. The workflow is tailored to tackle complex queries by decomposing them into smaller, manageable steps, executing each sequentially, and re-planning dynamically when necessary. This structured approach enables the agent to effectively handle tasks involving multiple stages, such as retrieving information, interpreting results, and generating a final response.
+![1](https://github.com/user-attachments/assets/9fb60864-9f4c-46b4-b65d-7a9b1a293a8b)
 
 **Steps:**
 
